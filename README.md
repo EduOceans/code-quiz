@@ -22,6 +22,8 @@ To run the website locally, follow these steps:
 
 ## Usage
 You can have a look at the website [here](https://eduoceans.github.io/code-quiz/)
+![main_app](https://github.com/EduOceans/code-quiz/assets/150608334/59fb3d46-2e82-4b5f-aaed-a2f9a429b388)
+![scores](https://github.com/EduOceans/code-quiz/assets/150608334/6fe4529d-9a0e-4cf8-a167-6e08bec3d023)
 
 
 
